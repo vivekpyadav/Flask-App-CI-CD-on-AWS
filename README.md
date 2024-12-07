@@ -13,7 +13,7 @@ Before running this project, ensure you have the following installed:
 - AWS CLI (configured with appropriate credentials)
 
 ```bash
-git clone https://github.com/vivekpyadav/Simple_Flask_Webapp.git
+git clone https://github.com/vivekpyadav/Flask-App-CI-CD-on-AWS.git
 ```
 
 ## Steps to Deploy in Docker
